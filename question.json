@@ -1,0 +1,42 @@
+[
+    {
+        "Pytanie":"Gdzie urodzil sie Bruce Lee: ",
+        "a":"w Japonii",
+        "b":"w USA",
+        "c":"w Honkongu",
+        "Odpowiedz poprawna":"b"
+
+    },
+    {
+        "Pytanie":"Jeden z najslynniejszych filmow, z Brucem Lee to:",
+        "a":"Wejscie smoka",
+        "b":"Zelazna Kurtyna",
+        "c":"Czlowiek ze stali",
+        "Odpowiedz poprawna":"a"
+
+    },
+    {
+        "Pytanie":"Seppuku to: ",
+        "a":"miecz okrytego hanba samuraja",
+        "b":"rytualne samobojstwo",
+        "c":"dzbanek do parzenia herbaty",
+        "Odpowiedz poprawna":"b"
+
+    },
+    {
+        "Pytanie":"Symbolem cesarstwa Japonii jest: ",
+        "a":"chryzantema",
+        "b":"slonecznik",
+        "c":"dzika roza",
+        "Odpowiedz poprawna":"a"
+
+    },
+    {
+        "Pytanie":"___ to oficjalna waluta Japonii: ",
+        "a":"Won",
+        "b":"Jen",
+        "c":"Dolar",
+        "Odpowiedz poprawna":"b"
+    }
+
+]
